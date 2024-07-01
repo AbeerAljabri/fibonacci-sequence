@@ -13,6 +13,6 @@ This is a Laravel application that generates the Fibonacci sequence based on a u
 
 
 ## Usage
-Enter a non-negative integer in the input field.
-Click the "Generate" button.
-The Fibonacci sequence up to the entered number will be displayed on the same page.
+- Enter a non-negative integer in the input field.
+- Click the "Generate" button.
+- The Fibonacci sequence up to the entered number will be displayed on the same page.

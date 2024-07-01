@@ -7,7 +7,7 @@ This is a Laravel application that generates the Fibonacci sequence based on a u
 ## Features
 
 - Input validation to ensure the user enters a non-negative integer.
-- Efficient Fibonacci sequence calculation using recursion with memoization.
+- Efficient Fibonacci sequence calculation using iteration.
 - Display the Fibonacci sequence as a comma-separated list.
 - Basic styling with CSS for a clean user interface.
 

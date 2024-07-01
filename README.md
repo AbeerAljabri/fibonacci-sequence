@@ -11,41 +11,8 @@ This is a Laravel application that generates the Fibonacci sequence based on a u
 - Display the Fibonacci sequence as a comma-separated list.
 - Basic styling with CSS for a clean user interface.
 
-## Requirements
 
-- PHP 7.3 or higher
-- Composer
-- Laravel 8.x or higher
-
-## Installation
-
-1. **Clone the repository:**
-
-   ```
-   git clone https://github.com/your-username/fibonacci-generator.git
-   cd fibonacci-generator
-   ```
-
-2. **Install dependencies:**
-
-bash
-Copy code
-composer install
-Set up your environment:
-
-Copy the .env.example file to .env and configure your environment variables as needed.
-
-bash
-Copy code
-cp .env.example .env
-php artisan key:generate
-Run the application:
-
-Start the Laravel development server.
-
-bash
-Copy code
-php artisan serve
-Access the application:
-
-Open your web browser and navigate to http://localhost:8000/fibonacci.
+## Usage
+Enter a non-negative integer in the input field.
+Click the "Generate" button.
+The Fibonacci sequence up to the entered number will be displayed on the same page.
